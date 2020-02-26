@@ -1,0 +1,14 @@
+ first_name | last_name |        e_mail        |  dept_title  | div_title  
+------------+-----------+----------------------+--------------+------------
+ Jane       | Doe       | janedoe@gmail.com    | Department A | Division 1
+ John       | Doe       | johndoe@gmail.com    | Department A | Division 1
+ Bill       | Gates     | billg@hotmail.com    | Department B | Division 1
+ Eric       | Raymond   | esr@thrysus.com      | Department B | Division 1
+ Bruce      | Perens    | bperens@gmail.com    | Department C | Division 2
+ Ada        | Lovelace  | ada@hotmail.com      | Department D | Division 2
+ Linus      | Torvalds  | linus@gmail.com      | Department E | Division 2
+ Katherine  | Johnson   | kjohnson@nasa.gov    | Department F | Division 3
+ Grace      | Hopper    | ghopper@usnavy.com   | Department G | Division 3
+ Scott      | Berkun    | info@scottberkun.com | Department D | Division 2
+ Joel       | Spolsky   | joel@fogcreek.com    | Department G | Division 3
+ Brendan    | Eich      | brendan@BrendanEich  | Department E | Division 2

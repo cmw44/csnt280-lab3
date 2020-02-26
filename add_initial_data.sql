@@ -1,0 +1,23 @@
+Insert into divisions(id,div_title) values(1,'Division 1');
+Insert into divisions(id,div_title) values(2,'Division 2');
+Insert into divisions(id,div_title) values(3,'Division 3');
+Insert into departments(id,dept_title,div_id) values(1,'Department A',1);
+Insert into departments(id,dept_title,div_id) values(2,'Department B',1);
+Insert into departments(id,dept_title,div_id) values(3,'Department C',2);
+Insert into departments(id,dept_title,div_id) values(4,'Department D',2);
+Insert into departments(id,dept_title,div_id) values(5,'Department E',2);
+Insert into departments(id,dept_title,div_id) values(6,'Department F',3);
+Insert into departments(id,dept_title,div_id) values(7,'Department G',3);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Jane','Doe','janedoe@gmail.com',1);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('John','Doe','johndoe@gmail.com',1);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Bill','Gates','billg@hotmail.com',2);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Eric','Raymond','esr@thrysus.com',2);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Bruce','Perens','bperens@gmail.com',3);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Ada','Lovelace','ada@hotmail.com',4);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Linus','Torvalds','linus@gmail.com',5);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Katherine','Johnson','kjohnson@nasa.gov',6);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Grace','Hopper','ghopper@usnavy.com',7);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Scott','Berkun','info@scottberkun.com',4);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Joel','Spolsky','joel@fogcreek.com',7);
+Insert into employees(first_name,last_name,e_mail,dept_id) values('Brendan','Eich','brendan@BrendanEich',5);
+
